@@ -1,0 +1,1 @@
+https://github.com/SmartCat/cocos2d-x/tree/cocos2d-x-3.5-android-vs2015 fork
